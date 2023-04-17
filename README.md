@@ -1,7 +1,7 @@
 # Shiplake college demo portal
 Made by Archie McPherson
 
-## It is reccommened that you read the README.md file before using.
+#### It is reccommened that you read the README.md file before using.
 
 ## Update log:
 
